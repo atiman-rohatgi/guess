@@ -1,4 +1,4 @@
-#project guessing_game
+#project guess_game
 
 objective: this is just a simple guessing game, but this time around I have used scheme as the language to build this.
 
